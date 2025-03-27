@@ -9,4 +9,4 @@
 
 - Criar um sistema eficiente, o qual proporciona uma análise mais profunda sobre as qualidades necessárias para que um Cientista de Dados possa ser considerado especializado ( a partir de uma descrição de dados com variáveis).
   
-<img src=https://github.com/user-attachments/assets/c5213570-ffe1-48a0-bbbb-95788651d541 width="600"/>
+
