@@ -16,8 +16,8 @@ Na nossa análise da densidade demográfica de Cientistas de Dados, optamos por 
 | Atributos                  | Descrição                                         | Tipo de Dado               |
 |----------------------------|---------------------------------------------------|----------------------------|
 | `Gênero`                 | Masculino, Feminino, Outros                 | Categórico   (nominal)    |
-| `Faixa Etária`            | Jovem, Adulto, Idoso                        |  Numérico     |
-| `Faixa Salarial`          | Baixa, Média, Alta                          |  Numérico     |
+| `Faixa Etária`            | Jovem, Adulto, Idoso                        |  Categórico (ordinal)     |
+| `Faixa Salarial`          | Baixa, Média, Alta                          |  Categórico (ordinal)     |
 | `Nível de experiência`     | Nenhum, Iniciante, Intermediário, Avançado  | Categórico (ordinal)       |
 | `Cientista por Estado`     | Distribuição de cientistas por estado       | Numérico         |
 | `Raça/Etnia/Cor`          | Diversidade racial e étnica                 | Categórico (nominal)       |
