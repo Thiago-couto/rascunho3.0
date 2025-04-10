@@ -10,8 +10,7 @@
 - Criar um sistema eficiente, o qual proporciona uma análise mais profunda sobre as qualidades necessárias para que um Cientista de Dados possa ser considerado especializado ( a partir de uma descrição de dados com variáveis).
   
 -preparação de dados   
-- `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`    
-markdown
+- `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`
 | Atributo                | Descrição                          |
 |-------------------------|------------------------------------|
 | Gênero                  | Masculino, Feminino, Outros        |
