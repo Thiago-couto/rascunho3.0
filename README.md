@@ -29,16 +29,16 @@ Na nossa análise da densidade demográfica de Cientistas de Dados, optamos por 
  
 - `Base_Auxiliar.csv`   
      
-| Atributo              | Descrição                          |
-|-----------------------|------------------------------------|
-| `CO_CURSO`              | Código do curso                    |
-| `LATITUDE`              | Latitude do local                  |
-| `LONGITUDE`             | Longitude do local                 |
-| `CO_MUNICIPIO`         | Código do município                |
-| `NO_CURSO`              | Nome do curso                      |
-| `CO_CINE_ROTULO`       | Código do cine rótulo              |
-| `TP_GRAU_ACADEMICO`    | Tipo de grau acadêmico             |
-| `TP_NIVEL_ACADEMICO`   | Tipo de nível acadêmico            |    
+| Atributo              | Descrição                          |  Tipo de Dado  |
+|-----------------------|------------------------------------|----------------|
+| `CO_CURSO`              | Código do curso                    |  Numérico |
+| `LATITUDE`              | Latitude do local                  |  Numérico |
+| `LONGITUDE`             | Longitude do local                 |  Numérico |
+| `CO_MUNICIPIO`         | Código do município                |  Numérico |
+| `NO_CURSO`              | Nome do curso                      |  Categórico (nominal) |
+| `CO_CINE_ROTULO`       | Código do cine rótulo              | Numérico |
+| `TP_GRAU_ACADEMICO`    | Tipo de grau acadêmico             | Categórico (ordinal) |
+| `TP_NIVEL_ACADEMICO`   | Tipo de nível acadêmico            | Categórico (ordinal) |   
 
 Por outro lado, identificamos que os demais atributos não contribuíram de maneira eficaz para a nossa análise. Isso nos permitiu focar em dados que realmente fazem a diferença, garantindo que nossas conclusões sejam precisas e úteis. Ao concentrar nossos esforços nos atributos mais relevantes, conseguimos obter uma visão mais clara e informada sobre a demografia dos Cientistas de Dados, facilitando a tomada de decisões e o planejamento estratégico.
 
