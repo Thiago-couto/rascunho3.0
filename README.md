@@ -13,15 +13,15 @@
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`    
 | First Header  | Second Header |   
 | ------------- | ------------- |     
-| `Gênero`   | 
-| `Faixa Etária`|    
-| `Faixa Salarial `|   
-| `Nível de experiência`  |  
+| `Gênero` | 
+| `Faixa Etária` |    
+| `Faixa Salarial` |   
+| `Nível de experiência` |  
 | `Ciêntista por Estado` |    
-| `Raça/Etnia/Cor`  |   
+| `Raça/Etnia/Cor` |   
 | `Ciêntistas por Região` |    
 | `Nível de Ensino` |   
-| `Situação Empresarial`  |  
+| `Situação Empresarial` |  
 | `Cargo` |   
 | `Área de Formação` |   
 
@@ -36,9 +36,9 @@
 - `Base_Auxiliar.csv`|        
 | First Header  | Second Header |     
 | ------------- | ------------- |     
-| `CO_CURSO`  |      
-| `LATITUDE`  |    
-| `LONGITUDE`  |   
+| `CO_CURSO` |      
+| `LATITUDE` |    
+| `LONGITUDE` |   
 | `CO_MUNICIPIO` |    
 | `NO_CURSO` |   
 | `CO_CINE_ROTULO` |    
