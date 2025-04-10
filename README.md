@@ -11,19 +11,19 @@
 
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`
 
-| Atributo                | Descrição                                   |
+| Atributos                | Descrição                                   |
 |-------------------------|---------------------------------------------|
-| Gênero                  | Masculino, Feminino, Outros                 |
-| Faixa Etária            | Jovem, Adulto, Idoso                        |
-| Faixa Salarial          | Baixa, Média, Alta                          |
-| Nível de experiência     | Nenhum, Iniciante, Intermediário, Avançado         |
-| Cientista por Estado     | Distribuição de cientistas por estado       |
-| Raça/Etnia/Cor          | Diversidade racial e étnica                 |
-| Cientistas por Região    | Distribuição de cientistas por região       |
-| Nível de Ensino          | Ensino Médio, Graduação, Pós-graduação      |
-| Situação Empresarial     | Ativo, Desempregado, Aposentado            |
-| Cargo                   | Títulos de trabalho                          |
-| Área de Formação         | Ciências Exatas, Humanas, Biológicas, etc. |
+| `Gênero`                 | Masculino, Feminino, Outros                 |
+| `Faixa Etária`            | Jovem, Adulto, Idoso                        |
+| `Faixa Salarial`          | Baixa, Média, Alta                          |
+| `Nível de experiência`     | Nenhum, Iniciante, Intermediário, Avançado         |
+| `Cientista por Estado`     | Distribuição de cientistas por estado       |
+| `Raça/Etnia/Cor`          | Diversidade racial e étnica                 |
+| `Cientistas por Região`    | Distribuição de cientistas por região       |
+| `Nível de Ensino`          | Ensino Médio, Graduação, Pós-graduação      |
+| `Situação Empresarial`     | Ativo, Desempregado, Aposentado            |
+| `Cargo`                   | Títulos de trabalho                          |
+| `Área de Formação`         | Ciências Exatas, Humanas, Biológicas, etc. |
  
 
 
@@ -33,17 +33,17 @@
 
 
 
-- `Base_Auxiliar.csv`|        
-| First Header  | Second Header |     
-| ------------- | ------------- |     
-| `CO_CURSO` |      
-| `LATITUDE` |    
-| `LONGITUDE` |   
-| `CO_MUNICIPIO` |    
-| `NO_CURSO` |   
-| `CO_CINE_ROTULO` |    
-| `TP_GRAU_ACADEMICO` |    
-| `TP_NIVEL_ACADEMICO` |    
+- `Base_Auxiliar.csv`        
+ Atributos     
+
+ `CO_CURSO`      
+ `LATITUDE`    
+ `LONGITUDE`    
+`CO_MUNICIPIO`   
+`NO_CURSO`   
+ `CO_CINE_ROTULO`   
+ `TP_GRAU_ACADEMICO`    
+`TP_NIVEL_ACADEMICO`    
 
 
 
