@@ -11,28 +11,28 @@
   
 -preparação de dados   
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv `  
-| Atributos | Descrição |
-| --- | --- |
-| `Gênero ` |  |
-| `Faixa Etária ` |  |   
-| `Faixa Salarial  ` |  | 
-| `Nível de experiência ` |  | 
-| `Ciêntista por Estado ` |  | 
-| `Raça/Etnia/Cor ` |  | 
-| `Ciêntistas por Região ` |  | 
-| `Nível de Ensino ` |  | 
-| `Situação Empresarial ` |  | 
-| `Cargo ` |  | 
-| `Área de Formação ` |  |  
+| Atributos | Descrição |    
+| --- | --- |   
+| `Gênero ` |  |    
+| `Faixa Etária ` |  |      
+| `Faixa Salarial  ` |  |    
+| `Nível de experiência ` |  |    
+| `Ciêntista por Estado ` |  |    
+| `Raça/Etnia/Cor ` |  |    
+| `Ciêntistas por Região ` |  |    
+| `Nível de Ensino ` |  |    
+| `Situação Empresarial ` |  |    
+| `Cargo ` |  |    
+| `Área de Formação ` |  |     
 
-- `Base_Auxiliar.csv `   
-| Atributos | Descrição |
-| --- | --- |
-| `CO_CURSO ` |  |
-| `LATITUDE	` |  |
-| `LONGITUDE	` |  |
-| `CO_MUNICIPIO		` |  |
-| `NO_CURSO	` |  |
-| `CO_CINE_ROTULO	` |  |
-| `TP_GRAU_ACADEMICO		` |  |
-| `TP_NIVEL_ACADEMICO	` |  |
+- `Base_Auxiliar.csv `      
+| Atributos | Descrição |   
+| --- | --- |   
+| `CO_CURSO ` |  |     
+| `LATITUDE	` |  |   
+| `LONGITUDE	` |  |   
+| `CO_MUNICIPIO		` |  |    
+| `NO_CURSO	` |  |   
+| `CO_CINE_ROTULO	` |  |   
+| `TP_GRAU_ACADEMICO		` |  |   
+| `TP_NIVEL_ACADEMICO	` |  |   
