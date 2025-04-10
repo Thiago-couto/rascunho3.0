@@ -44,3 +44,68 @@
 | `CO_CINE_ROTULO` |    
 | `TP_GRAU_ACADEMICO` |    
 | `TP_NIVEL_ACADEMICO` |    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Preparação de Dados | Descrição |
+|-------------------------|---------------|
+| 
+State_of_data_BR_2023_Kaggle - df_survey_2023.csv
+ | |
+| Primeiro Cabeçalho | Segundo Cabeçalho |
+| 
+Gênero
+ | |
+| 
+Faixa Etária
+ | |
+| 
+Faixa Salarial
+ | |
+| 
+Nível de experiência
+ | |
+| 
+Ciêntista por Estado
+ | |
+| 
+Raça/Etnia/Cor
+ | |
+| 
+Ciêntistas por Região
+ | |
+| 
+Nível de Ensino
+ | |
+| 
+Situação Empresarial
+ | |
+| 
+Cargo
+ | |
+| 
+Área de Formação
+ | |
+
+| Base Auxiliar | Descrição |
+|-------------------|---------------|
+| 
+Base_Auxiliar.csv
+ | |
+| Primeiro Cabeçalho | Segundo Cabeçalho |
+| 
+CO_CURSO
+ | |
+| 
+
