@@ -25,25 +25,17 @@
 | `Cargo`                   | Títulos de trabalho                          |
 | `Área de Formação`         | Ciências Exatas, Humanas, Biológicas, etc. |
  
-
-
-
-
-
-
-
-
 - `Base_Auxiliar.csv`        
- Atributos     
-
- `CO_CURSO`      
- `LATITUDE`    
- `LONGITUDE`    
-`CO_MUNICIPIO`   
-`NO_CURSO`   
- `CO_CINE_ROTULO`   
- `TP_GRAU_ACADEMICO`    
-`TP_NIVEL_ACADEMICO`    
+| Atributo              | Descrição                          |
+|-----------------------|------------------------------------|
+| `CO_CURSO`              | Código do curso                    |
+| `LATITUDE`              | Latitude do local                  |
+| `LONGITUDE`             | Longitude do local                 |
+| `CO_MUNICIPIO`         | Código do município                |
+| `NO_CURSO`              | Nome do curso                      |
+| `CO_CINE_ROTULO`       | Código do cine rótulo              |
+| `TP_GRAU_ACADEMICO`    | Tipo de grau acadêmico             |
+| `TP_NIVEL_ACADEMICO`   | Tipo de nível acadêmico            |    
 
 
 
