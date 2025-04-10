@@ -11,8 +11,8 @@
   
 -preparação de dados   
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`  
-| Atributos |   
-| --- | --- |   
+| First Header  | Second Header |
+| ------------- | ------------- |  
 | `Gênero`   | 
 | `Faixa Etária`|    
 | `Faixa Salarial `|   
@@ -27,11 +27,11 @@
 - `Base_Auxiliar.csv`|      
 | Atributos | Descrição |   
 | --- | --- |   
-| `CO_CURSO`  |    
-| `LATITUDE`  |  
-| `LONGITUDE`  | 
-| `CO_MUNICIPIO` |   
-| `NO_CURSO`  | 
-| `CO_CINE_ROTULO` | 
-| `TP_GRAU_ACADEMICO` |  
-| `TP_NIVEL_ACADEMICO` |  
+| `CO_CURSO`  |      
+| `LATITUDE`  |    
+| `LONGITUDE`  |   
+| `CO_MUNICIPIO` |    
+| `NO_CURSO` |   
+| `CO_CINE_ROTULO` |    
+| `TP_GRAU_ACADEMICO` |    
+| `TP_NIVEL_ACADEMICO` |    
