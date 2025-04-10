@@ -25,7 +25,8 @@
 | `Cargo`                   | Títulos de trabalho                          |
 | `Área de Formação`         | Ciências Exatas, Humanas, Biológicas, etc. |
  
-- `Base_Auxiliar.csv`        
+- `Base_Auxiliar.csv`   
+     
 | Atributo              | Descrição                          |
 |-----------------------|------------------------------------|
 | `CO_CURSO`              | Código do curso                    |
