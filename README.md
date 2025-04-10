@@ -24,7 +24,6 @@
 | `Situação Empresarial` | A |    
 | `Cargo` | A |    
 | `Área de Formação` | A |     
-
 - `Base_Auxiliar.csv`      
 | Atributos | Descrição |   
 | --- | --- |   
