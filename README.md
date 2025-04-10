@@ -24,9 +24,18 @@
 | `Situação Empresarial`  |  
 | `Cargo` |   
 | `Área de Formação` |   
+
+
+
+
+
+
+
+
+
 - `Base_Auxiliar.csv`|      
-| Atributos | Descrição |   
-| --- | --- |   
+| First Header  | Second Header |
+| ------------- | ------------- |   
 | `CO_CURSO`  |      
 | `LATITUDE`  |    
 | `LONGITUDE`  |   
