@@ -11,19 +11,19 @@
   
 -preparação de dados   
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`    
-| First Header  | Second Header |   
-| ------------- | ------------- |     
-| `Gênero` | 
-| `Faixa Etária` |    
-| `Faixa Salarial` |   
-| `Nível de experiência` |  
-| `Ciêntista por Estado` |    
-| `Raça/Etnia/Cor` |   
-| `Ciêntistas por Região` |    
-| `Nível de Ensino` |   
-| `Situação Empresarial` |  
-| `Cargo` |   
-| `Área de Formação` |   
+| Atributo                | Descrição                          |
+|-------------------------|------------------------------------|
+| Gênero                  | Masculino, Feminino, Outros        |
+| Faixa Etária            | Jovem, Adulto, Idoso               |
+| Faixa Salarial          | Baixa, Média, Alta                 |
+| Nível de experiência     | Iniciante, Intermediário, Avançado |
+| Cientista por Estado     | Distribuição de cientistas por estado |
+| Raça/Etnia/Cor          | Diversidade racial e étnica        |
+| Cientistas por Região    | Distribuição de cientistas por região |
+| Nível de Ensino          | Ensino Médio, Graduação, Pós-graduação |
+| Situação Empresarial     | Ativo, Desempregado, Aposentado    |
+| Cargo                    | Títulos de trabalho                 |
+| Área de Formação         | Ciências Exatas, Humanas, Biológicas, etc. |
 
 
 
@@ -57,55 +57,4 @@
 
 
 
-
-| Preparação de Dados | Descrição |
-|-------------------------|---------------|
-| 
-State_of_data_BR_2023_Kaggle - df_survey_2023.csv
- | |
-| Primeiro Cabeçalho | Segundo Cabeçalho |
-| 
-Gênero
- | |
-| 
-Faixa Etária
- | |
-| 
-Faixa Salarial
- | |
-| 
-Nível de experiência
- | |
-| 
-Ciêntista por Estado
- | |
-| 
-Raça/Etnia/Cor
- | |
-| 
-Ciêntistas por Região
- | |
-| 
-Nível de Ensino
- | |
-| 
-Situação Empresarial
- | |
-| 
-Cargo
- | |
-| 
-Área de Formação
- | |
-
-| Base Auxiliar | Descrição |
-|-------------------|---------------|
-| 
-Base_Auxiliar.csv
- | |
-| Primeiro Cabeçalho | Segundo Cabeçalho |
-| 
-CO_CURSO
- | |
-| 
 
