@@ -29,7 +29,7 @@ Na nossa análise da densidade demográfica de Cientistas de Dados, optamos por 
  
 - `Base_Auxiliar.csv`   
      
-| Atributo              | Descrição                                                                      |  Tipo de Dado  |
+| Atributo              | Motivos                                                                        |  Tipo de Dado  |
 |-----------------------|--------------------------------------------------------------------------------|----------------|
 | `CO_CURSO`              | Importante para identificar a formação acadêmica dos profissionais na área   |  Numérico |
 | `LATITUDE`              | Essencial para mapear a distribuição geográfica dos Cientistas de Dados      |  Numérico |
