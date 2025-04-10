@@ -13,19 +13,19 @@ Na nossa análise da densidade demográfica de Cientistas de Dados, optamos por 
 
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`
 
-| Atributos                | Descrição                                   |
-|-------------------------|---------------------------------------------|
-| `Gênero`                 | Masculino, Feminino, Outros                 |
-| `Faixa Etária`            | Jovem, Adulto, Idoso                        |
-| `Faixa Salarial`          | Baixa, Média, Alta                          |
-| `Nível de experiência`     | Nenhum, Iniciante, Intermediário, Avançado         |
-| `Cientista por Estado`     | Distribuição de cientistas por estado       |
-| `Raça/Etnia/Cor`          | Diversidade racial e étnica                 |
-| `Cientistas por Região`    | Distribuição de cientistas por região       |
-| `Nível de Ensino`          | Ensino Médio, Graduação, Pós-graduação      |
-| `Situação Empresarial`     | Ativo, Desempregado, Aposentado            |
-| `Cargo`                   | Títulos de trabalho                          |
-| `Área de Formação`         | Ciências Exatas, Humanas, Biológicas, etc. |
+| Atributos                  | Descrição                                         | Tipo de Dado               |
+|----------------------------|---------------------------------------------------|----------------------------|
+| `Gênero`                 | Masculino, Feminino, Outros                 | Categórico   (nominal)    |
+| `Faixa Etária`            | Jovem, Adulto, Idoso                        |  Numérico     |
+| `Faixa Salarial`          | Baixa, Média, Alta                          |  Numérico     |
+| `Nível de experiência`     | Nenhum, Iniciante, Intermediário, Avançado  | Categórico (ordinal)       |
+| `Cientista por Estado`     | Distribuição de cientistas por estado       | Numérico         |
+| `Raça/Etnia/Cor`          | Diversidade racial e étnica                 | Categórico (nominal)       |
+| `Cientistas por Região`    | Distribuição de cientistas por região       | Numérico         |
+| `Nível de Ensino`          | Ensino Médio, Graduação, Pós-graduação      | Categórico (ordinal)       |
+| `Situação Empresarial`     | Ativo, Desempregado, Aposentado            | Categórico (nominal)       |
+| `Cargo`                   | Títulos de trabalho                          | Categórico (nominal)       
+| `Área de Formação`         | Ciências Exatas, Humanas, Biológicas, etc. | Categórico (nominal)       |
  
 - `Base_Auxiliar.csv`   
      
