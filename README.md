@@ -13,19 +13,19 @@ Na nossa análise da densidade demográfica de Cientistas de Dados, optamos por 
 
 - `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`
 
-| Atributos                  | Descrição                                         | Tipo de Dado               |
-|----------------------------|---------------------------------------------------|----------------------------|
-| `Gênero`                 | Masculino, Feminino, Outros                 | Categórico   (nominal)    |
-| `Faixa Etária`            | Jovem, Adulto, Idoso                        |  Categórico (ordinal)     |
-| `Faixa Salarial`          | Baixa, Média, Alta                          |  Categórico (ordinal)     |
-| `Nível de experiência`     | Nenhum, Iniciante, Intermediário, Avançado  | Categórico (ordinal)       |
-| `Cientista por Estado`     | Distribuição de cientistas por estado       | Numérico         |
-| `Raça/Etnia/Cor`          | Diversidade racial e étnica                 | Categórico (nominal)       |
-| `Cientistas por Região`    | Distribuição de cientistas por região       | Numérico         |
-| `Nível de Ensino`          | Ensino Médio, Graduação, Pós-graduação      | Categórico (ordinal)       |
-| `Situação Empresarial`     | Ativo, Desempregado, Aposentado            | Categórico (nominal)       |
-| `Cargo`                   | Títulos de trabalho                          | Categórico (nominal)       
-| `Área de Formação`         | Ciências Exatas, Humanas, Biológicas, etc. | Categórico (nominal)       |
+| Atributos                  | Descrição                                                                                   | Tipo de Dado               |
+|----------------------------|---------------------------------------------------------------------------------------------|----------------------------|
+| `Gênero`                   | Identificação de gênero dos cientistas de dados, importante para análises de diversidade      | Categórico   (nominal)    |
+| `Faixa Etária`             | Classificação etária dos cientistas, útil para entender a distribuição etária na profissão   |  Categórico (ordinal)     |
+| `Faixa Salarial`           | Níveis de renda dos cientistas, relevante para análises socioeconômicas da profissão         |  Categórico (ordinal)     |
+| `Nível de experiência`     | Avaliação do nível de experiência dos cientistas, importante para entender a qualificação da força de trabalho | Categórico (ordinal)       |
+| `Cientista por Estado`     | Quantidade de cientistas de dados em cada estado, essencial para mapear a distribuição geográfica     | Numérico         |
+| `Raça/Etnia/Cor`           | Informações sobre a diversidade racial e étnica dos cientistas, importante para análises de inclusão  | Categórico (nominal)       |
+| `Cientistas por Região`    | Distribuição de cientistas de dados por região, útil para identificar áreas com maior concentração    | Numérico         |
+| `Nível de Ensino`          | Níveis educacionais dos cientistas, relevante para entender a formação acadêmica na área              | Categórico (ordinal)       |
+| `Situação Empresarial`     | Status de emprego dos cientistas, importante para análises de mercado de trabalho                     | Categórico (nominal)       |
+| `Cargo`                    | Títulos de trabalho ocupados pelos cientistas, útil para entender a hierarquia e funções na área      | Categórico (nominal)       
+| `Área de Formação`         | Campos de estudo dos cientistas, importante para analisar a diversidade de formações na profissão     | Categórico (nominal)       |
  
 - `Base_Auxiliar.csv`   
      
